@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+
+}
+nav{
+    height: 100px;
+
+}
+body{
+    background-color: white;
+}
+/* .wrapper{
+    margin: 0  auto 0 60px ;
+    width: 1000px;
+    background-color: blue;
+}
+
+ul{
+margin-left: 60px;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    float:left;
+    line-height: 100px;
+}
+
+ul li a{
+display: bllock;
+text-decoration: none;
+font-size: 14px;
+font-family: Arial;
+color: #1e1e1e;
+padding: 0 20px;
+    for nav//position:absolute;
+
+} */
+
+ul li a:hover{
+    color: red;
+}
+
+nav {
+    width: 100%;
+    background-color: rgb(236, 236, 236);
+    font-family: arial;
+    color: #222;
+    font-size: 24px;
+    line-height: 55px;
+    float: left;
+}
+nav ul{
+    float: left;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    position: relative;
+}
+nav ul li a{
+    text-decoration: none;
+    display: block;
+    font-family: arial;
+    color: #222;
+    font-size: 14px;
+    padding: 10px 19px;
+}
+
+nav ul li ul{
+    display: none;
+    position: absolute;
+    background-color: rgb(236, 236, 236);
+    border-radius: 0px 0px 8px 8px;
+    text-align: center;
+}
+nav ul li ul li {
+    width: 120px;
+}
+nav ul li ul li a:hover{
+    background-color: #f3f3f3;
+}
+
+nav ul li:hover ul{
+    display: block;
+
+}
+.h1{
+    font-style: arial;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+h2{
+    padding-left: 10%;
+    padding-top: 15%;
+}
+h3{
+    padding-left: 15%;
+    padding-top: 10%;
+}
+.BidyLogo{
+    width: 700px;
+    height: 400px;
+    padding-left: 20%;
+}
+.BidyImg{
+    width: 700px;
+    height: 400px;
+    padding-left:29%;
+    padding-top: 5%;
+
+}
+.ProjectVideo1{
+    background-color: rgb(202, 190, 255);
+    padding-left: 50px;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-left: 200px;
+}
+
+.ProjectVideo2{
+    background-color: rgb(202, 190, 255);
+    padding-left: 430px;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-right: 270px;
+}
+    
+.h3Red{
+color: rgb(226,47,74);
+}
+.h1Red{
+padding-left: 14.5%;
+}
+
+.HHH{
+    text-align: center;
+    align-content: center;
+}
+

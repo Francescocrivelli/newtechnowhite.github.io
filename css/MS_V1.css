@@ -1,7 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-   
+    max-width: 100%;
+    
 
 }
 nav{
@@ -50,7 +51,6 @@ nav {
     color: #222;
     font-size: 24px;
     line-height: 55px;
-    float: left;
 }
 nav ul{
     float: left;
@@ -141,3 +141,83 @@ padding-left: 14.5%;
     align-content: center;
 }
 
+.videoIndex{
+    height: 50%;
+    width: 60%;    
+    margin-top: -10px;
+    margin-left: 20%px;
+}
+
+.check000{
+    max-width: 400px;
+    margin-left: 100px;
+    color: white;
+    font-style: italic;
+    margin-left: 400px;
+    margin-top: 1%;
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+/* .check0{
+    padding-top: 10% ;
+    padding-left: 10%;
+    color: white;
+    font-style: italic;
+    font-style:initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+.check{
+    margin-left: 3%;
+    margin-top: 3010px ;
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+}
+.videoIn{
+    height: 50%;
+    width: 60%; 
+    margin-left: 20%;
+    margin-top: 3050px;
+}
+.tittle{
+    color: white;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.game{
+    font-size: 40px;
+    border: solid red 2px;
+    text-align: center;
+    margin: 10%;
+    color: white;
+}
+.game:hover{
+    color: red;
+}
+.game1{
+    font-size: 40px;
+    text-align: center;
+    margin: 10%;
+    color: white;
+}
+.game1:hover{
+    color: red;
+}
+.galleryA{
+    width: 800px;
+    height: 600px;
+}
+.gallerePic{
+    margin-top: 0px;
+    margin-left: 0px ;
+    width: 800px;
+    height: 600px;
+}
+.move{
+    position: absolute;
+    margin-top: 200px;
+}

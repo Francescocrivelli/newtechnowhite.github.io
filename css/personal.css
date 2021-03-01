@@ -1,0 +1,29 @@
+.personal{
+margin-top: 1000px;
+position: absolute;
+}
+img {
+  float: left;
+  margin: 10px;
+  width:150px;
+  height: 140px;
+  
+}
+  
+
+body {
+  font-family: sans-serif;
+  font-size: 22px;
+}
+
+.stanford {
+  color:red;
+}
+
+.hov:hover {
+  color: red;
+}
+
+h1 {
+  text-align: center;
+}

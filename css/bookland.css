@@ -1,0 +1,62 @@
+h1{
+    font-size: 110px;
+    text-align: center;
+    font-family: "Lucida Console", Courier, monospace;
+}
+.margins{
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+.demoa{
+    width: 500px;
+    height: 200px;
+    font-family: "Lucida Console", Courier, monospace;
+    border: 4px solid gray ;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
+
+.char{
+    font-size: 25px;
+    padding: 2px;   
+    padding-left: 500px;
+    font-style: oblique;
+    color: lightgray;
+    text-shadow: lightslategray;
+}
+.cahra{
+  padding-left: -400px;
+  margin-left: -400px;
+
+
+}
+.find{
+    margin-right: -100px;
+    padding-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+
+}
+.clear{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.buttons{
+    padding-left: 490px;
+
+}
+
+body {
+    background-image: url("../image/games/bookland/library.jpg");
+    background-color: #cccccc;
+   }
+p{
+    color: white;
+}

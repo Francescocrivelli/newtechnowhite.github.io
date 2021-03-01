@@ -1,0 +1,40 @@
+.body{
+    background-image: url("../html/games/map/StanfordCenterofStudy.jpg");
+
+}
+.frame{
+    position: absolute;
+    left:30px;
+    top: 50px;
+    right: 40vh;
+    border: solid black 20px;
+    overflow: hidden;
+    max-height: 70vh; 
+    max-width: 100vh;
+   
+    
+} 
+
+
+.controlPanel{
+    position: absolute;
+    right: 20vh;
+    top: 50px;
+    max-width: 20vh;
+}
+.plusButton{
+    width: 50px;
+}
+.minusButton{
+    width: 50px;
+}
+.topButton{
+    margin-top: 3px;
+    margin-bottom: 2px;
+    margin-left: 30px;
+}
+.downButton{
+    margin-top: 2px;
+    margin-left: 30px;
+}
+
